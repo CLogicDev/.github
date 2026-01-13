@@ -1,6 +1,20 @@
 <div align="center">
 
-<img src="CLogic_Logo_1.svg" width="700" alt="CLogic · Code Meets Logic">
+<picture>
+  <source 
+    srcset="CLogic-logo-2-dark.svg" 
+    media="(prefers-color-scheme: dark)"
+  />
+  <source 
+    srcset="CLogic-logo-2-light.svg" 
+    media="(prefers-color-scheme: light)"
+  />
+  <img 
+    src="CLogic-logo-2-dark.svg" 
+    alt="CLogic · Code Meets Logic"
+    width="240"
+  />
+</picture>
 
 # Good Code Solves Problems. Great Systems Prevent Them
 
