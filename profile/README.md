@@ -12,7 +12,7 @@
   <img 
     src="CLogic-logo-2-dark.svg" 
     alt="CLogic · Code Meets Logic"
-    width="700"
+    width="500"
   />
 </picture>
 
